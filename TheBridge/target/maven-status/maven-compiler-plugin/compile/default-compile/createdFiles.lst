@@ -1,0 +1,9 @@
+dev\aarow\thebridge\map\LocalGameMap.class
+dev\aarow\thebridge\map\MapManager.class
+dev\aarow\thebridge\TheBridge.class
+dev\aarow\thebridge\listeners\JoinEvent.class
+dev\aarow\thebridge\game\GameState.class
+dev\aarow\thebridge\utils\Color.class
+dev\aarow\thebridge\utils\FileUtil.class
+dev\aarow\thebridge\map\GameMap.class
+dev\aarow\thebridge\game\GameManager.class
